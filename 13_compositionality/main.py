@@ -1,0 +1,1 @@
+print("Compositionality sample")
